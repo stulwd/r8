@@ -1,6 +1,6 @@
 {
     "terminal.integrated.env.windows": {
-        "PATH": "C:\\Users\\datui\\.platformio\\penv\\Scripts;C:\\Users\\datui\\.platformio\\penv;C:\\WINDOWS\\System32;C:\\Users\\datui\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\;C:\\Users\\datui\\AppData\\Local\\Programs\\Python\\Python37-32\\;C:\\Users\\datui\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Users\\datui\\.platformio\\penv\\Scripts;;C:\\WINDOWS\\System32;C:\\Users\\datui\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\;C:\\Users\\datui\\AppData\\Local\\Programs\\Python\\Python37-32\\;C:\\Users\\datui\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Users\\datui\\.platformio\\penv\\Scripts;",
+        "PATH": "C:\\Users\\datui\\.platformio\\penv\\Scripts;C:\\Users\\datui\\.platformio\\penv;C:\\WINDOWS\\System32;C:\\Users\\datui\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\;C:\\Users\\datui\\AppData\\Local\\Programs\\Python\\Python37-32\\;C:\\Users\\datui\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Users\\datui\\.platformio\\penv\\Scripts;C:\\Program Files\\Git\\bin;;C:\\WINDOWS\\System32;C:\\Users\\datui\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\;C:\\Users\\datui\\AppData\\Local\\Programs\\Python\\Python37-32\\;C:\\Users\\datui\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Users\\datui\\.platformio\\penv\\Scripts;C:\\Program Files\\Git\\bin;",
         "PLATFORMIO_CALLER": "vscode"
     }
 }
